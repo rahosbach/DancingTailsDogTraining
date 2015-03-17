@@ -4,7 +4,7 @@
 			"author": "Sonja",
 			"location":"Berkeley",
 			"image":"Biggie1-low.jpg",
-			"text": "Alyssa was a wonderful trainer with my 3-year-old golden retriever Biggie. She taught him to respond quickly and consistently to all of the commands he had learned as a puppy, but needed reinforcing. She was very attentive to Biggie, and went above & beyond training methods to make sure he was a happy, healthy dog, including suggesting coconut oil for a hot spot. On top of all this, she treated me with great respect and was flexible with her schedule around my work day. I would definitely recommend Alyssa and Dancing Tails Dog Training to others looking for help reinforcing well-trained behaviors with their pup!"
+			"text": "Alyssa was a wonderful trainer with my 3-year-old Golden Retriever, Biggie. She taught him to respond quickly and consistently to all of the commands he had learned as a puppy, but needed reinforcing. She was very attentive to Biggie, and went above & beyond training methods to make sure he was a happy, healthy dog, including suggesting coconut oil for a hot spot. On top of all this, she treated me with great respect and was flexible with her schedule around my work day. I would definitely recommend Alyssa and Dancing Tails Dog Training to others looking for help reinforcing well-trained behaviors with their pup!"
 		},
 		{
 			"author": "Angie & Rob",
@@ -16,25 +16,25 @@
 			"author": "Amber",
 			"location":"Humboldt County",
 			"image":"Autumn1-low.jpg",
-			"text":"Alyssa worked with my dog Autumn. She is an amazing trainer and a very kind and considerate person with a genuine love for animals. Autumn would always get super excited when Alyssa would come to work with her." 
+			"text":"Alyssa worked with my dog, Autumn. She is an amazing trainer and a very kind and considerate person with a genuine love for animals. Autumn would always get super excited when Alyssa would come to work with her." 
 		},
 		{
 			"author": "Kay",
 			"location":"Berkeley",
 			"image":"Flanders-low.jpg",
-			"text": "Alyssa took on the challenge of increasing my seven year old dog's recall response. The combination of her enthusiasm, attention and caring worked wonders and Flanders is much more responsive to coming when called.  Alyssa also gave me pointers on how to maintain the behavior modification that she had achieved.  I'm very happy with the result!  "
+			"text": "Alyssa took on the challenge of increasing my seven year old dog's recall response. The combination of her enthusiasm, attention and caring worked wonders and Flanders is much more responsive to coming when called.  Alyssa also gave me pointers on how to maintain the behavior modification that she had achieved.  I'm very happy with the result!"
 		},
 		{
 			"author": "Mark & Sara",
 			"location":"Albany",
 			"image":"Ollie-low.jpg",
-			"text": "Alyssa took our lovable Wheaton Terrier, Ollie, everyday for an hour and helped groom Ollie into a wonderfully obedient dog. Ollie looked forward to his daily visits with Alyssa and showed a marked improvement in behavior. My wife and I strongly recommend Alyssa for all your dog training needs."
+			"text": "Alyssa took our lovable Wheaten Terrier, Ollie, everyday for an hour and helped groom Ollie into a wonderfully obedient dog. Ollie looked forward to his daily visits with Alyssa and showed a marked improvement in behavior. My wife and I strongly recommend Alyssa for all your dog training needs."
 		}
 	],
 	"services": [
 		{
 			"title":"Puppies",
-			"description":"Early Puppy Behavior Training",
+			"description":"Puppy planning and behavior",
 			"image":"puppy-low.jpg",
 			"items":[
 				{
@@ -57,23 +57,23 @@
 				{
 					"session":"Single Session",
 					"price":"$125",
-					"description":"Perfect for pre-puppy consultations and first appointments after you've brought your puppy home."
+					"description":"Are you hoping to get a puppy? Did you just get a puppy and are feeling overwhelmed? Do you wonder what the hype is all about with socialization? If you answered yes to these questions, then this 90-minute consult is for you."
 				},
 				{
 					"session":"4-Session Package",
 					"price":"$450",
-					"description":"One session per week for four weeks. Perfect for gaining traction on a small set of basic behaviors: Sit, down, stay, and walking politely on leash. I show you the training mechanics during our sessions, and you get the chance to pratice training your puppy during the week (which, by the way, is a great way to build your relationship!).."
+					"description":"This package is perfect for gaining traction on a small set of basic behaviors, discussing puppy issues like house training and chewing, and/or helping with socialization. From the comfort of your home I will show you how to teach your puppy what you want her to do. Once a week for four weeks I will come to your home for a fun hour of training customized to your goals."
 				},
 				{
 					"session":"12-Session Package",
 					"price":"$1,250",
-					"description":"Three sessions per week for four weeks. Perfect package for busy owners without the time to train their puppy. I will come to your home to train your puppy while you are away at work, and will have intermittent coaching sessions with you as well (one per week). Each puppy will have a custom training plan, which will be discussed during the pre-consult phone call and first session."
+					"description":"Do you want a well-trained pup, but don’t have the time? I am here to help! While you are at work, I will come to your home 3 times a week to start your puppy down the path to becoming a polite and enjoyable companion. Once a week I will meet with you to transfer your pooch’s new skills to you. Your pup will have a training plan customized to your goals."
 				}
 			]
 		},
 		{
 			"title":"Basic",
-			"description":"Basic Obedience & Behavior",
+			"description":"Basic obedience",
 			"image":"basic-low.jpg",
 			"items":[
 				{
@@ -108,17 +108,17 @@
 				{
 					"session":"Single Session",
 					"price":"$125",
-					"description":"A single session, ideal for coaching you on training 1-2 specific behaviors you desire for your pooch."
+					"description":"Do you want snappy recalls? A polite pooch? A dog that doesn’t eat everything off the ground? Then this 90-minute consult is for you! In a private, one-on-one session, I will coach you on a few behaviors of your choice that will help improve your pup’s manners in no time."
 				},
 				{
 					"session":"4-Session Package",
 					"price":"$450",
-					"description":"One session per week for four weeks. Perfect for gaining traction on a small set of basic behaviors: Sit, down, stay, and walking politely on leash. I show you the training mechanics during our sessions, and you get the chance to practice training your pooch during the week."
+					"description":"Are you enthusiastic about teaching your dog some manners? Would you like to learn from the comfort of your own home, and with a more flexible schedule than a group class? Then this package is for you! Once a week for four weeks I will come to you for a fun hour of private training customized to your goals. I show you the training mechanics during our sessions, and you get the chance to practice your skills with your dog during the week."
 				},
 				{
 					"session":"12-Session Package",
 					"price":"$1,250",
-					"description":"Three sessions per week for four weeks. Perfect for busy owners without the time to train their dog. I will come to your home to train your pooch while you are away at work, and will have intermittent coaching sessions with you as well (one per week). Each dog will have a custom training plan, which will be discussed during the pre-consult phone call and first session."
+					"description":"Is your schedule too packed to even think about training your pooch good manners? I am here to help! Coming to your home three times a week while you are at work, I will start your dog on the path to becoming a polite and enjoyable companion. Once a week I will meet with you to transfer your pooch’s new skills to you. Your dog will have a training plan customized to your goals."
 				}
 			]
 		},
@@ -146,7 +146,7 @@
 					"service":"Counter Surfing"
 				},
 				{
-					"service":"Dog-Dog Agression"
+					"service":"Aggression"
 				},
 				{
 					"service":"Leash Pulling"
@@ -167,17 +167,17 @@
 				{
 					"session":"Single Session",
 					"price":"$125",
-					"description":"This 90-minute consult involves assessing the problem behavior and discussing best practices for training it out."
+					"description":"Does your dog ignore you when you call him? Does he bark at everyone who walks by your home? Are your guests tired of him jumping up to say hi? If these issues and other behavioral challenges are wearing you out, this 90-minute consult is for you! I am here to help you and your pooch have a more enjoyable, stress-free lifestyle. I will come to your home for a one-on-one meeting to discuss challenges you’ve been facing and create a plan customized to your goals."
 				},
 				{
 					"session":"4-Session Package",
 					"price":"$450",
-					"description":"One session per week for four weeks, where I provide you with training techniques to work on your dog’s problem behavior(s). Each session after the first will involve a check-in to see how the previous week’s training went, and best ways to move forward. This is an ideal package for the motivated owner who’s enthusiastic about being an integral part of their dog’s training."
+					"description":"Are you worn out by your dog’s naughty behavior? Do you need some help resolving issues like chewing, barking, leash pulling, and jumping up? Do you have time to work with your dog but need motivation to do so? Then, this package is for you! Once a week for four weeks I will come to your home for an hour of private training customized to your goals. I show you the methods and tools to use during our sessions, and you get the chance to practice your skills with your dog during the week."
 				},
 				{
 					"session":"12-Session Package",
 					"price":"$1,250",
-					"description":"This package involves a first consult with you on the weekend. Then, I will come to your home and work with your dog on the problem behavior during the day, every business day for two weeks (10 sessions in total). Finally, during the weekend after the 10th training session I will have a consult with you to discuss your dog’s progress and how you can maintain his improved behavior going forward. This package is ideal for busy owners without the time to train their dog."
+					"description":"Worn out, too busy, and too tired to train? I am here to help! While you are at work, I will come to your home three times a week and will start your dog on the path to becoming a more enjoyable companion. Once a week I will meet with you to transfer your pooch’s new skills to you. Your dog will have a training plan customized to your goals."
 				}
 			]
 		}
