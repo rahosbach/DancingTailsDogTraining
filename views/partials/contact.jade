@@ -40,7 +40,7 @@ section.container#contact
 							span.validation
 						div.panel#userPhone
 							p Phone:
-							input(placeholder="(555) 555-5555", ng-model="form.phone")
+							input(placeholder="(999) 999-9999", ng-model="form.phone")
 							span.validation
 						div.panel#userEmail
 							p Email:
@@ -74,7 +74,7 @@ section.container#contact
 					input(placeholder="(e.g., Google, Yelp, personal reference, flier, etc.)", ng-model="form.how")
 					span.validation
 				div.panel
-					button(ng-click="submitMessage()").ease Message
+					button(ng-click="submitMessage()").ease Send Message
 section#messageResult
 	div.panel(style="background:#1BA39C")
 		p(ng-show="sent")
