@@ -356,7 +356,7 @@ function trackPage(page){
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-48511938-5', 'dancingtailsdogtraining.herokuapp.com');
+  ga('create', 'UA-60893247-1', 'www.dancingtailsdogtraining.com');
   ga('send', {
     'hitType':'pageview',
     'page':page
