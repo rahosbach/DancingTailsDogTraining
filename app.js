@@ -128,7 +128,7 @@ app.get('/sitemap.xml', function(req, res) {
   // do the XML string generation
   var urls = ['', 'services', 'philosophy', 'videos', 'about', 'contact'];
   // the root of your website - the protocol and the domain name with a trailing slash
-  var root_path = 'http://www.example.com/';
+  var root_path = 'http://www.dancingtailsdogtraining.com/';
   // XML sitemap generation starts here
   var priority = 0.80;
   var freq = 'yearly';
