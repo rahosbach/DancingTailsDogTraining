@@ -9,8 +9,8 @@ section.container#services
 				li A pre-consult phone call
 				li A 90-minute in-person consult
 				li A detailed follow-up email from our meeting including a summary of the consult and key recommendations
-			p.smallest.italic All programs include all consultation features.
-			p(ng-click="moveDown()",style="cursor:pointer") Select a category below for services offered
+			p.smallest.italic All programs include all consultation features. I currently operate out of Berkeley, CA and serve the East Bay Area
+			p(ng-click="moveDown()",style="cursor:pointer") Select a dog training category below
 	div.panelContainer.serviceInner.ease
 		div.package(ng-repeat="category in services")
 			div(ng-show="category.state")
@@ -48,14 +48,14 @@ section.container#services
 	div#policy
 		div.grid-half
 			p.small.bold.green Payment
-			p.smallest Payment for all services can be made at the time of your scheduled appointment. I take cash and checks only.
+			p.smallest Payment for all dog training services can be made at the time of your scheduled appointment. I take cash and checks only.
 		div.grid-half
 			p.small.bold.green Cancellation Policy
-			p.smallest Cancellations require 48-hour notice to change your reservation or cancel for a full refund.
+			p.smallest I require 48-hour notice to change or cancel your dog training consultation appointment for a full refund.
 
 section.pageEnd
 	figure.banner#servicesEnd(style="background-image:url('../Maysie4-standard.jpg')").bg
 		div
 			h1 Have Questions | Want More Details?
-			p.small Reach out to me and start training your pooch today
+			p.small Reach out to me and start training your dog today
 			a(href="/contact"): button.ease Contact Me

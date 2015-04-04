@@ -57,17 +57,17 @@
 				{
 					"session":"Single Session",
 					"price":"$125",
-					"description":"Are you hoping to get a puppy? Did you just get a puppy and are feeling overwhelmed? Do you wonder what the hype is all about with socialization? If you answered yes to these questions, then this 90-minute consult is for you."
+					"description":"Are you hoping to get a puppy? Did you just get a puppy and are feeling overwhelmed? Do you wonder what the hype is all about with socialization? If you answered yes to these questions, then this 90-minute puppy training consult is for you."
 				},
 				{
 					"session":"4-Session Package",
 					"price":"$450",
-					"description":"This package is perfect for gaining traction on a small set of basic behaviors, discussing puppy issues like house training and chewing, and/or helping with socialization. From the comfort of your home I will show you how to teach your puppy what you want her to do. Once a week for four weeks I will come to your home for a fun hour of training customized to your goals."
+					"description":"This puppy training package is perfect for gaining traction on a small set of basic behaviors, discussing puppy issues like house training and chewing, and/or helping with socialization. From the comfort of your home I will show you how to teach your puppy what you want her to do. Once a week for four weeks I will come to your home for a fun hour of puppy training customized to your goals."
 				},
 				{
 					"session":"12-Session Package",
 					"price":"$1,250",
-					"description":"Do you want a well-trained pup, but don’t have the time? I am here to help! While you are at work, I will come to your home 3 times a week to start your puppy down the path to becoming a polite and enjoyable companion. Once a week I will meet with you to transfer your pooch’s new skills to you. Your pup will have a training plan customized to your goals."
+					"description":"Do you want a well-trained pup, but don’t have the time? I am here to help! While you are at work, I will come to your home 3 times a week to start your puppy down the path to becoming a polite and enjoyable companion. Once a week I will meet with you to transfer your pooch’s new skills to you. Your puppy will have a training plan customized to your goals."
 				}
 			]
 		},
@@ -108,23 +108,23 @@
 				{
 					"session":"Single Session",
 					"price":"$125",
-					"description":"Do you want snappy recalls? A polite pooch? A dog that doesn’t eat everything off the ground? Then this 90-minute consult is for you! In a private, one-on-one session, I will coach you on a few behaviors of your choice that will help improve your pup’s manners in no time."
+					"description":"Do you want snappy recalls? A polite pooch? A dog that doesn’t eat everything off the ground? Then this 90-minute basic obedience training consult is for you! In a private, one-on-one session, I will coach you on a few behaviors of your choice that will help improve your dog’s manners in no time."
 				},
 				{
 					"session":"4-Session Package",
 					"price":"$450",
-					"description":"Are you enthusiastic about teaching your dog some manners? Would you like to learn from the comfort of your own home, and with a more flexible schedule than a group class? Then this package is for you! Once a week for four weeks I will come to you for a fun hour of private training customized to your goals. I show you the training mechanics during our sessions, and you get the chance to practice your skills with your dog during the week."
+					"description":"Are you enthusiastic about teaching your dog some manners? Would you like to learn from the comfort of your own home, and with a more flexible schedule than a group class? Then this basic obedience training package is for you! Once a week for four weeks I will come to you for a fun hour of private obedience training customized to your goals. I show you the training mechanics during our sessions, and you get the chance to practice your skills with your dog during the week."
 				},
 				{
 					"session":"12-Session Package",
 					"price":"$1,250",
-					"description":"Is your schedule too packed to even think about training your pooch good manners? I am here to help! Coming to your home three times a week while you are at work, I will start your dog on the path to becoming a polite and enjoyable companion. Once a week I will meet with you to transfer your pooch’s new skills to you. Your dog will have a training plan customized to your goals."
+					"description":"Is your schedule too packed to even think about training your pooch good manners? I am here to help! Coming to your home three times a week while you are at work, I will start your dog on the path to becoming a polite and enjoyable companion. Once a week I will meet with you to transfer your pooch’s new skills to you. Your dog will have a basic obedience training plan customized to your goals."
 				}
 			]
 		},
 		{
 			"title":"Behavior",
-			"description":"Behavior modification",
+			"description":"Dealing with problem behaviors",
 			"image":"behavior-low.jpg",
 			"items":[
 				{
@@ -167,12 +167,12 @@
 				{
 					"session":"Single Session",
 					"price":"$125",
-					"description":"Does your dog ignore you when you call him? Does he bark at everyone who walks by your home? Are your guests tired of him jumping up to say hi? If these issues and other behavioral challenges are wearing you out, this 90-minute consult is for you! I am here to help you and your pooch have a more enjoyable, stress-free lifestyle. I will come to your home for a one-on-one meeting to discuss challenges you’ve been facing and create a plan customized to your goals."
+					"description":"Does your dog ignore you when you call him? Does he bark at everyone who walks by your home? Are your guests tired of him jumping up to say hi? If these issues and other problem behaviors are wearing you out, this 90-minute consult is for you! I am here to help you and your pooch have a more enjoyable, stress-free lifestyle. I will come to your home for a one-on-one meeting to discuss challenges you’ve been facing and create a dog training plan customized to your goals."
 				},
 				{
 					"session":"4-Session Package",
 					"price":"$450",
-					"description":"Are you worn out by your dog’s naughty behavior? Do you need some help resolving issues like chewing, barking, leash pulling, and jumping up? Do you have time to work with your dog but need motivation to do so? Then, this package is for you! Once a week for four weeks I will come to your home for an hour of private training customized to your goals. I show you the methods and tools to use during our sessions, and you get the chance to practice your skills with your dog during the week."
+					"description":"Are you worn out by your dog’s naughty behavior? Do you need some help resolving problem behaviors like chewing, barking, leash pulling, and jumping up? Do you have time to work with your dog but need motivation to do so? Then, this package is for you! Once a week for four weeks I will come to your home for an hour of private dog training customized to your goals. I show you the methods and tools to use during our sessions, and you get the chance to practice your skills with your dog during the week."
 				},
 				{
 					"session":"12-Session Package",
