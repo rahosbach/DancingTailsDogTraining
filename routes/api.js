@@ -11,7 +11,7 @@ exports.reviews = function (req, res) {
 		reviews.push({
 			author:review.author,
 			location:review.location,
-			image:review.image?review.image:"paw-white.png",
+			image:review.image?review.image:"Loading Paw White.png",
 			text:review.text
 		});
 	});
