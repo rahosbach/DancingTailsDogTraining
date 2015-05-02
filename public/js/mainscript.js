@@ -19,7 +19,7 @@ $(document).ready(function(){
       headerScroll();
   })
   var temp = new Image();
-  temp.src="../homeCover-low.jpg";
+  temp.src="../Dancing-Tails-Dog-Training-low.jpg";
   temp.onload=function(){
     $('html body').css("opacity",1);
     logoAnimation();
@@ -154,7 +154,7 @@ function fixedCategory(){
  */
 function loadingHome(){
   if(cover != null) cover.onload=null;
-  var url = "../homeCover-standard.jpg";
+  var url = "../Dancing-Tails-Dog-Training-standard.jpg";
   cover= new Image();
   cover.src=url;
   var bgUrl="url('"+url+"')";
@@ -165,7 +165,7 @@ function loadingHome(){
 }
 function loadingContact(){
   if(cover != null) cover.onload=null;
-  var url = "../contact-standard.jpg";
+  var url = "../Golden-Retriever-Lay-Contact-standard.jpg";
   cover= new Image();
   cover.src=url;
   var bgUrl="url('"+url+"')";
@@ -179,12 +179,12 @@ function loadingContact(){
 function preloadImages(){
   var temp = new Array();
   var images = [
-    "../services-low.jpg",
-    "../philosophy2-low.jpg",
+    "../French-Bulldog-Training-Sit-low.jpg",
+    "../Training-Walking-On-Leash-low.jpg",
     "https://yt3.ggpht.com/-JJL7Q1EM588/AAAAAAAAAAI/AAAAAAAAAAA/5HgAWEqoNyU/s240-c-k-no/photo.jpg",
     "https://i.ytimg.com/vi/5ckKE-pHR5Y/hqdefault.jpg",
-    "../Alyssa-low.jpg",
-    "../contact-standard.jpg"
+    "../Alyssa-Hosbach-low.jpg",
+    "../Golden-Retriever-Lay-Contact-standard.jpg"
   ];
   for(var i=0;i<images.length;i++){
     temp[i] = new Image();
