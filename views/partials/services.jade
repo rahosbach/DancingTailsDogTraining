@@ -4,13 +4,13 @@ section.container#services
 	div.panelContainer(style="background-image:url('French-Bulldog-Training-Sit-low.jpg')")
 		div.serviceIntro
 			h1.green I am Here to Help!
-			h2 Each private consult includes:
+			h2 Each private dog or puppy training consult includes:
 			ul
 				li A pre-consult phone call
 				li A 90-minute in-person consult
 				li A detailed follow-up email from our meeting including a summary of the consult and key recommendations
-			p.smallest.italic All programs include all consultation features. I currently operate out of Berkeley, CA and serve the East Bay Area
-			p(ng-click="moveDown()",style="cursor:pointer") Select a dog training category below
+			p.smallest.italic All dog and puppy training programs include all consultation features. I currently operate out of Berkeley, CA and serve the East Bay Area
+			p(ng-click="moveDown()",style="cursor:pointer") Select a dog or puppy training category below
 	div.panelContainer.serviceInner.ease
 		div.package(ng-repeat="category in services")
 			div(ng-show="category.state")
@@ -48,14 +48,17 @@ section.container#services
 	div#policy
 		div.grid-half
 			p.small.bold.green Payment
-			p.smallest Payment for all dog training services can be made at the time of your scheduled appointment. I take cash and checks only.
+			p.smallest Payment for all dog training services to be made at the time of your scheduled appointment. If you purchase a 4- or 12-session training package, payment is to be made at the time of your first scheduled appointment. I take cash and checks only.
 		div.grid-half
 			p.small.bold.green Cancellation Policy
 			p.smallest I require 48-hour notice to change or cancel your dog training consultation appointment for a full refund.
+		div.grid-half
+			p.small.bold.green Travel Costs
+			p.smallest I am based out of Berkeley, CA. Any services provided in San Francisco, north of Richmond, east of Orinda, or south of Oakland will incur an extra cost for travel compensation (both time and fuel). Because fuel costs and travel time vary greatly depending on time of year and the scheduled time of the consult, this cost will be discussed at the time the appointment is scheduled. 
 
 section.pageEnd
 	figure.banner#servicesEnd(style="background-image:url('../Dog-Paw-standard.jpg')").bg
 		div
 			h1 Have Questions | Want More Details?
-			p.small Reach out to me and start training your dog today
+			p.small Reach out to me and start training your dog or puppy today
 			a(href="/contact"): button.ease Contact Me
