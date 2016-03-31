@@ -102,7 +102,7 @@ function ContactCtrl($scope, $http){
     }
     if(validitymsg == "validated"){
       $scope.form.owner = $scope.form.owner.capitalizedFirst();
-      $scope.form.phone = $scope.form.phone.replace(/[^0-9]/g,"").formatPhone();
+      $scope.form.phone = $scope.form.phone;
       $scope.form.email = $scope.form.email.toLowerCase();
       $scope.form.dog = $scope.form.dog.capitalizedFirst();
       $scope.form.breed = $scope.form.breed.capitalizedFirst();
