@@ -110,6 +110,7 @@ function ContactCtrl($scope, $http){
       $scope.form.message = $scope.form.message.match(/^.+/mg);
       if(confirm("Ready to send?")==true){
         $http.post('/api/messages/new', $scope.form)
+        $http.post('//formspree.io/dancingtailstraining@gmail.com', $scope.form)
         .success(function(data){
           $scope.sent="Message Sent! Thank you for your interest in Dancing Tails. I'll get back to you as soon as possible."
           $('#messageResult').fadeIn("fast");
