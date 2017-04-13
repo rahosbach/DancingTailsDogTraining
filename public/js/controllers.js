@@ -112,8 +112,8 @@ function ContactCtrl($scope, $http){
         $http.post('/api/messages/new', $scope.form)
         $http.post('//formspree.io/dancingtailstraining@gmail.com', $scope.form)
         .success(function(data){
-          /*$scope.sent="Message sent! Thank you for your interest in Dancing Tails Dog Training. I'll get back to you as soon as possible."*/
-          $scope.sent="Message sent! Thank you for your interest in Dancing Tails Dog Training. I am on vacation from April 3-12, but I will get back to you as soon as possible once I return."
+          $scope.sent="Message sent! Thank you for your interest in Dancing Tails Dog Training. I'll get back to you as soon as possible."
+          /*$scope.sent="Message sent! Thank you for your interest in Dancing Tails Dog Training. I am on vacation from April 3-12, but I will get back to you as soon as possible once I return."*/
           $('#messageResult').fadeIn("fast");
         })
       }
